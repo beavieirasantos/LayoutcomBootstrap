@@ -1,4 +1,4 @@
-# # Layout com Bootstrap 5
+# Layout com Bootstrap 5
 
 Projeto desenvolvido como atividade prática da disciplina de **Front-End**, com o objetivo de aplicar os conhecimentos de **Bootstrap 5** na construção de um layout para uma página web.
 
